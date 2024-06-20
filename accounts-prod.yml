@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to ADGBank accounts related PRODuction1 APIs"
+  contactDetails:
+    name: "Mark Zucker - Product Owner"
+    email: "mark@adgbank.com"
+  onCallSupport:
+    - (777) 123-4567
+    - (888) 888-8888

@@ -1,0 +1,11 @@
+build:
+  version: "8.9"
+
+loans:
+  message: "Welcome to ADGBank loans related PRODuction1 APIs"
+  contactDetails:
+    name: "Naruto Uzumaki - Developer"
+    email: "naruto@adgbank.com"
+  onCallSupport:
+    - (114) 555-1234
+    - (115) 888-5678

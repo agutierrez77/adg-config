@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+cards:
+  message: "Welcome to ADGBank cards related PRODuction1 APIs"
+  contactDetails:
+    name: "Bruce Wayne - Developer"
+    email: "bruce@adgbank.com"
+  onCallSupport:
+    - (333) 555-1234
+    - (444) 888-5678

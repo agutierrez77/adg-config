@@ -1,0 +1,11 @@
+build:
+  version: "9.0"
+
+loans:
+  message: "Welcome to ADGBank loans related QA1 APIs"
+  contactDetails:
+    name: "Zoro Ronoroa - Developer"
+    email: "zoro@adgbank.com"
+  onCallSupport:
+    - (116) 555-1234
+    - (117) 888-5678

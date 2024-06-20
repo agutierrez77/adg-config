@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to ADGBank accounts related local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@adgbank.com"
+  onCallSupport:
+    - (123) 555-1234
+    - (456) 888-5678
+

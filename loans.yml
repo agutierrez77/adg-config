@@ -1,0 +1,11 @@
+build:
+  version: "7.0"
+
+loans:
+  message: "Welcome to ADGBank loans related local APIs"
+  contactDetails:
+    name: "Luffy D. Monkey - Developer"
+    email: "luffy@adgbank.com"
+  onCallSupport:
+    - (112) 555-1234
+    - (113) 888-5678

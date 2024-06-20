@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to ADGBank cards related local APIs"
+  contactDetails:
+    name: "Jane Doe - Developer"
+    email: "jane@adgbank.com"
+  onCallSupport:
+    - (111) 555-1234
+    - (222) 888-5678

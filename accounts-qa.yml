@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ADGBank accounts related QA APIs"
+  contactDetails:
+    name: "Peter Parker - QA Lead"
+    email: "peter@adgbank.com"
+  onCallSupport:
+    - (222) 123-9999
+    - (333) 222-8888
